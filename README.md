@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.png" width="250" alt="Jordan Noblejas" style="border-radius: 50%;" />
+  <img src="./profile.png" width="250" alt="Jordan Noblejas" />
   <br>
   <br>
   <h1>¡Hola! Soy Jordan 👋</h1>
