@@ -1,92 +1,92 @@
 <div align="center">
-  <img src="./profile.png" width="250" alt="Jordan Noblejas" />
+  <img src="./profile.png" width="250" alt="Jordan Noblejas" style="border-radius: 50%;" />
+  <br>
+  <br>
+  <h1>¡Hola! Soy Jordan 👋</h1>
+  <h3>Tech Lead | Backend Engineer | Full Stack</h3>
+  <p>
+    <i>"Construyendo sistemas que escalan, evolucionan y no se rompen bajo presión."</i> 🚀
+  </p>
 </div>
 
-<h2 align="center">Tech Lead | Backend Engineer | Full Stack</h2>
-
 <p align="center">
-  <i>"Designing systems that scale, evolve, and don’t break under pressure."</i>
-</p>
-
-<p align="center">
-  <a href="mailto:jordannoblejas@gmail.com"><img src="https://img.shields.io/badge/Email-jordannoblejas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/jordan-noblejas-61b628370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/JordanTX21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:jordannoblejas@gmail.com"><img src="https://img.shields.io/badge/Email-¡Escríbeme!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jordan-noblejas-61b628370/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/JordanTX21"><img src="https://img.shields.io/badge/GitHub-Mi%20Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 ¡Bienvenido(a) a mi rincón de código!
 
-Backend Engineer and Tech Lead with **5+ years of experience** designing and evolving high-impact systems in logistics and ERP environments. Specialized in **Laravel and Vue.js**, focused on building scalable APIs, refactoring legacy systems, and leading technical decisions that improve performance, maintainability, and team velocity.
+¡Qué genial que estés por aquí! Soy un **Backend Engineer y Tech Lead con más de 5 años de experiencia** dándole vida a sistemas de alto impacto (especialmente en logística y ERPs). Me encanta resolver problemas complejos y asegurarme de que el código no solo funcione, sino que sea fácil de mantener y escalar. 
 
-- **Philosophy**: Scalable. Maintainable. Built to last.
-- **Currently**: Open to impactful and scalable system challenges.
-- **Education**: Systems Engineering, Universidad Nacional Tecnológica de Lima Sur (UNTELS)
+Mi corazón late por **Laravel y Vue.js** ❤️, pero me muevo por todo el stack. Si buscas a alguien que disfrute diseñando APIs robustas, refactorizando sistemas legacy sin miedo, y ayudando a su equipo a crecer, ¡has llegado al lugar correcto!
 
-### 🚀 Core Strengths & Architecture
+- 💡 **Mi filosofía**: Escalable. Mantenible. Construido para durar.
+- 🎯 **Actualmente**: Siempre abierto a retos interesantes y sistemas que requieran cariño y buena arquitectura.
+- 🎓 **Educación**: Ingeniería de Sistemas en la Universidad Nacional Tecnológica de Lima Sur (UNTELS).
 
-- **API Design & System Architecture:** Clean API First, Decoupling logic (FormRequests, Service Classes, Resources).
-- **High-Load Backend Optimization:** Legacy system refactoring, DB Query Optimization.
-- **Data Security:** Strict OAuth2, Payload Masking, Hashids.
-- **Technical Leadership & Mentoring:** Leading teams, improving workflows and code review processes.
+### 🚀 Mis Superpoderes (y un poco de Arquitectura)
 
-### 💻 Tech Stack
+- **Diseño de APIs y Arquitectura:** Me encanta la filosofía "API First". Separo la lógica para mantener todo limpio (FormRequests, Service Classes, Resources).
+- **Optimización de Backend:** Refactorizar sistemas legacy y optimizar consultas en bases de datos es mi pan de cada día.
+- **Seguridad ante todo:** OAuth2 estricto, enmascaramiento de datos y Hashids. ¡Nada se escapa!
+- **Liderazgo Técnico y Mentoría:** Disfruto mucho liderando equipos, mejorando los flujos de trabajo y haciendo code reviews que de verdad aporten.
+
+### 💻 Mi Stack Tecnológico
 
 <details>
-<summary><b>🛠 Backend & APIs</b></summary>
+<summary><b>🛠 Backend & APIs (El motor)</b></summary>
 <br>
   
-- **Laravel:** Modern & 5.8 Legacy, Eloquent ORM
-- **Architecture:** Services, Repositories, Clean Code
-- **APIs:** Secured REST APIs, Tokens, Parameter Masking
-- **ERP:** ERPNext / Frappe (Custom Business Logic)
+- **Laravel:** Desde el moderno hasta el clásico 5.8, dominando Eloquent ORM.
+- **Arquitectura:** Servicios, Repositorios, Clean Code.
+- **APIs:** APIs REST seguras, manejo de Tokens, enmascaramiento de parámetros.
+- **ERP:** ERPNext / Frappe (Lógica de negocio personalizada).
 
 </details>
 
 <details>
-<summary><b>🎨 Frontend</b></summary>
+<summary><b>🎨 Frontend (La magia visual)</b></summary>
 <br>
   
-- **Vue Ecosystem:** Vue 3 (Composition API, Pinia, Vue Router), Vue 2 Legacy (Options API, Vuex)
-- **Styling:** TailwindCSS (Atomic & Responsive Design)
-- **Forms & State:** Vee Validate, Session/Cookies Sync
+- **Ecosistema Vue:** Vue 3 (Composition API, Pinia, Vue Router) y también Vue 2 (Options API, Vuex) para los proyectos nostálgicos.
+- **Estilos:** TailwindCSS (Diseño atómico, responsive y hermoso).
+- **Formularios y Estado:** Vee Validate, sincronización con Session/Cookies.
 
 </details>
 
 <details>
-<summary><b>📱 Mobile</b></summary>
+<summary><b>📱 Mobile (Llevándolo a todas partes)</b></summary>
 <br>
 
-- **Flutter:** Hybrid App Development, Bloc/Provider State Management
-- **Native:** Custom Permissions (Camera, Storage Dialogs)
+- **Flutter:** Desarrollo de apps híbridas, manejo de estado con Bloc/Provider.
+- **Nativo:** Manejo de permisos personalizados (Cámara, Diálogos de Almacenamiento).
 
 </details>
 
 <details>
-<summary><b>⚙️ Tools & Integrations</b></summary>
+<summary><b>⚙️ Herramientas e Integraciones</b></summary>
 <br>
   
-- **Systems:** Logistics solutions, QR Code Payments
-- **Tech:** WebSockets, Git Flow, Environment Variables
+- **Sistemas:** Soluciones logísticas complejas, pagos con códigos QR.
+- **Tecnologías:** WebSockets, Git Flow, manejo de variables de entorno.
 
 </details>
 
-### 💼 Experience
+### 💼 Un resumen de mi aventura laboral
 
-- **Tech Lead, Backend Engineer & Full Stack @ Larael S.A.C** (2025 - Present)
-  - Leading technical decisions, backend architecture, and mentoring.
-- **Full Stack & Mobile Developer @ Larael S.A.C** (2023 - 2025)
-  - Architected flows in ERPNext, hybrid Flutter apps, and API-first Laravel implementations.
-- **Backend Developer @ Overskull S.A.C** (2021 - 2023)
-  - Maintained high-traffic logistics systems, optimized MySQL queries.
+- 🌟 **Tech Lead, Backend Engineer & Full Stack @ Larael S.A.C** (2025 - Presente)
+  - Liderando decisiones técnicas, diseñando la arquitectura del backend y siendo mentor del equipo.
+- 🚀 **Full Stack & Mobile Developer @ Larael S.A.C** (2023 - 2025)
+  - Diseñé flujos en ERPNext, creé apps híbridas con Flutter e implementé soluciones "API-first" en Laravel.
+- 🛠️ **Backend Developer @ Overskull S.A.C** (2021 - 2023)
+  - Mantuve sistemas logísticos de alto tráfico y optimicé consultas SQL para que todo volara.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanTX21&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Jordan's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
+  <p><i>¡Échale un vistazo a los lenguajes con los que más me divierto!</i> 👇</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanTX21&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Jordan's Top Languages" />
 </div>
