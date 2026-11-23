@@ -19,7 +19,7 @@
 
 ### 👨‍💻 ¡Bienvenido(a) a mi rincón de código!
 
-Soy **Ingeniero de Sistemas con más de 5 años** construyendo y operando sistemas en producción para **Shalom**, una de las mayores empresas de courier del Perú: logística, courier, venta de pasajes, pagos y ERP. Desde 2025 **lidero técnicamente a un equipo de 12 desarrolladores** y coordino con QA y gestión.
+Soy **egresado de Ingeniería de Sistemas con más de 5 años** construyendo y operando sistemas en producción para **Shalom**, una de las mayores empresas de courier del Perú: logística, courier, venta de pasajes, pagos y ERP. Desde 2025 **lidero técnicamente a un equipo de 12 desarrolladores** y coordino con QA y gestión.
 
 Mi corazón late por **Laravel y Vue.js** ❤️, pero me muevo por todo el stack. Disfruto diseñando APIs robustas, migrando sistemas legacy sin miedo, llevando IA al flujo de desarrollo y ayudando a mi equipo a crecer.
 
@@ -30,16 +30,16 @@ Mi corazón late por **Laravel y Vue.js** ❤️, pero me muevo por todo el stac
 ### 🏆 Algunos resultados
 
 - ⚡ Endpoints en producción de **32,7 s a 1,2 s**, y una saturación de base de datos que bajó de **1 001 a 31 conexiones** con APIs respondiendo en ~0,1 s.
-- 🔀 **Más de 3 000 merge requests integrados** en 2025–2026 en más de 80 repositorios, sobre un Git flow que impulsé en el equipo.
-- 🧱 Migración de APIs legacy (PHP 5 / Laravel 5.8) a **Laravel 13 y PHP 8.4** con pruebas de paridad contra el sistema anterior.
-- 🚌 Web de venta de pasajes de **ShalomBus** construida desde cero (Vue 3, TypeScript, Pinia, Tailwind v4) con pagos Culqi 3DS.
+- 🔀 **Más de 3 000 merge requests propios integrados** en 2025–2026 en más de 80 repositorios, sobre un Git flow que impulsé en el equipo.
+- 🧱 Migración de APIs legacy (Laravel 5.8) a **Laravel 13 y PHP 8.4** con pruebas de paridad contra el sistema anterior.
+- 🚌 Web de venta de pasajes de **ShalomBus**: la inicié, definí su arquitectura (Vue 3, TypeScript, Pinia, Tailwind v4), desarrollé varias vistas e hice la mayor parte de las APIs Laravel que consume, con pagos Culqi 3DS.
 - 🤖 Un **servidor MCP** que conecta nuestro ERP de tareas y GitLab con Claude Code, con agentes para gestores, programadores, QA y Tech Lead.
 
 ### 🚀 Mis Superpoderes (y un poco de Arquitectura)
 
 - **Diseño de APIs y Arquitectura:** "API First", DDD y monolito modular. Separo la lógica para mantener todo limpio (FormRequests, Services, Resources).
 - **Optimización de Backend:** refactorizar sistemas legacy y optimizar consultas sobre tablas de cientos de millones de filas es mi pan de cada día.
-- **DevOps:** plantillas de GitLab CI y Docker para todo el equipo, Nginx, PHP-FPM, Teleport y Zabbix.
+- **DevOps:** plantillas de GitLab CI y Docker para todo el equipo, Nginx, PHP-FPM y Teleport.
 - **Liderazgo Técnico y Mentoría:** code reviews que de verdad aporten, estimación de impacto técnico y coordinación entre desarrollo, QA y gestión.
 
 ### 💻 Mi Stack Tecnológico
@@ -78,7 +78,7 @@ Mi corazón late por **Laravel y Vue.js** ❤️, pero me muevo por todo el stac
 <summary><b>⚙️ DevOps, Integraciones e IA</b></summary>
 <br>
 
-- **DevOps:** GitLab CI, Docker, Linux, Nginx, PHP-FPM, Teleport, Zabbix, DigitalOcean.
+- **DevOps:** GitLab CI, Docker, Linux, Nginx, PHP-FPM, Teleport, DigitalOcean.
 - **Integraciones:** pasarelas de pago (Culqi 3DS, Niubiz), facturación electrónica (Nubefact), Google Analytics 4.
 - **IA aplicada:** Claude Code, servidores MCP, agentes y skills, LLMs locales con llama.cpp.
 
@@ -95,14 +95,14 @@ Mi corazón late por **Laravel y Vue.js** ❤️, pero me muevo por todo el stac
 
 ### 🧪 Proyectos personales
 
-- 📦 [**Logistics App**](https://github.com/orgs/jordantx-logistics/repositories): sistema de logística propio con Laravel 13 (DDD, JWT, RBAC, outbox) y Vue 3 + TypeScript.
+- 📦 [**Logistics App**](https://github.com/orgs/jordantx-logistics/repositories): sistema de logística propio con Laravel 13 (DDD, Sanctum, RBAC, outbox), Vue 3 + TypeScript y [cuatro apps Flutter offline-first](https://github.com/jordantx-logistics/logistics-app-mobile).
 - 🦙 [**llama-scripts**](https://github.com/JordanTX21/llama-sripts): scripts y presets para correr LLMs locales con llama.cpp en Windows y Linux.
 
 <details>
 <summary><b>🇺🇸 In English</b></summary>
 <br>
 
-Systems Engineer with 5+ years building and running production systems for **Shalom**, one of Peru's largest courier companies (logistics, courier, bus ticketing, payments and ERP). Since 2025 I have been the **technical lead of a 12-developer team**. I specialize in Laravel backend architecture, legacy migrations (Laravel 5.8 → 13), database performance, DevOps and bringing AI tooling (Claude Code, MCP servers) into the development workflow. Open to remote Tech Lead, Senior Backend or Full Stack roles.
+Software engineer with 5+ years building and running production systems for **Shalom**, one of Peru's largest courier companies (logistics, courier, bus ticketing, payments and ERP). Since 2025 I have been the **technical lead of a 12-developer team**. I specialize in Laravel backend architecture, legacy migrations (Laravel 5.8 → 13), database performance, DevOps and bringing AI tooling (Claude Code, MCP servers) into the development workflow. Open to remote Tech Lead, Senior Backend or Full Stack roles.
 
 👉 [Portfolio (EN)](https://jordantx21.github.io/landing-jtx21/) · [LinkedIn](https://www.linkedin.com/in/jordan-noblejas-61b628370/)
 
